@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "lightweight package that can help you to add an element into an array at certain index",
   "main": "index.js",
-  "scripts": {
-    "test": "."
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pacifiquem/push_at_index_package.git"
+    "url": "git+https://github.com/pacifiquem/pushat.git"
   },
   "keywords": [
     "_pushat",
@@ -19,7 +16,7 @@
   "author": "pacifiquem",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pacifiquem/push_at_index_package/issues"
+    "url": "https://github.com/pacifiquem/pushat/issues"
   },
-  "homepage": "https://github.com/pacifiquem/push_at_index_package#readme"
+  "homepage": "https://github.com/pacifiquem/pushat#readme"
 }
