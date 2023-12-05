@@ -1,3 +1,10 @@
+/*
+@params:
+    array: the array you want to manipulate
+    index: where you want to add an element. Start counting from 0
+    element: new value you want to add into an array.
+*/
+
 const _pushat = (array, index, element) => {
 
     let i;
